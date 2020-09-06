@@ -1,2 +1,2 @@
 # phack
-a set of python tools
+a set of python tools usefull for hacking
